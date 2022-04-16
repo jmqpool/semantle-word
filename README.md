@@ -5,8 +5,8 @@ https://st3ph4nnn.github.io/semantle-word/
 
 Get the today's official Semantle word.  
 If you want to reverse this yourself, allocate 5 minutes  
-and some tinkering in the javascripts file running on javascript
-and you will essentially reverse engineer the word out   
+and some tinkering in the javascripts file running on javascript  
+and you will essentially reverse engineer the word out  
 compared to wordle, the algorithm is very very basic, and it was  
 overall easier to break in.
 
